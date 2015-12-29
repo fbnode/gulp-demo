@@ -5,7 +5,7 @@
                                                  <2>、包管理工具：bower
                                                   <3>、构建工具： gulp或grunt
         这里我们选用：yo+bower+gulp
- ##3、yeoman工具安装：
+##3、yeoman工具安装：
 npm install -g yo
 bower：npm install -g bower
 glup：npm install -g gulp
